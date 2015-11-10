@@ -1,0 +1,34 @@
+help
+projects
+session
+help session
+session save
+ls
+help
+settings
+run
+test
+compile
+?
+compile
+?
+compile
+run
+console
+run
+console
+run
+run test
+compile
+?
+compile
+?
+compile
+copmile
+compile
+run test
+test
+compile
+test
+def add(x:Int, y:Int) = x + y
+console
